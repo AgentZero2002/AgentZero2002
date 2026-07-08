@@ -11,7 +11,7 @@
 
 ### About Me
 
-PhD student at **Tsinghua University**, School of Integrated Circuits.  
+PhD student at **Tsinghua University**, School of Materials Science and Engineering, Kai Liu Group.  
 I work on **two-dimensional materials for neuromorphic hardware** — building simple-structure devices that can sense, remember, and compute like biological synapses, without the complexity of heterojunctions or gate-voltage control.
 
 ---
